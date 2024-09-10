@@ -38,7 +38,7 @@ In compliance with CalOPPA, we:
 
 ### General Data Protection Regulation (GDPR)
 
-As the developer of this app, I am committed to user privacy and data protection. I do not collect or store any personal information from users in the European Economic Area (EEA) or elsewhere.
+As the developers of this app, we are committed to user privacy and data protection. We do not collect or store any personal information from users in the European Economic Area (EEA) or elsewhere.
 
 ### California Consumer Privacy Act (CCPA)
 
@@ -46,19 +46,19 @@ AirDrop Manager does not sell or share any personal information. If you are a Ca
 
 ## No Use of Emails or Newsletters
 
-I do not send any emails or newsletters to users. The only way to contact me is via the email address [airdrop.manager.app@gmail.com](mailto:airdrop.manager.app@gmail.com).
+We do not send any emails or newsletters to users. The only way to contact us is via the email address [airdrop.manager.app@gmail.com](mailto:airdrop.manager.app@gmail.com).
 
 ## Children’s Privacy
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. If I become aware that a child under 13 has provided me with personal information, I will immediately delete this from the app's local storage. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us at [airdrop.manager.app@gmail.com](mailto:airdrop.manager.app@gmail.com).
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will immediately delete this from the app's local storage. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us at [airdrop.manager.app@gmail.com](mailto:airdrop.manager.app@gmail.com).
 
 ## Changes to This Privacy Policy
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 ## Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at [airdrop.manager.app@gmail.com](mailto:airdrop.manager.app@gmail.com).
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [airdrop.manager.app@gmail.com](mailto:airdrop.manager.app@gmail.com).
 
 ## Last updated:
 
