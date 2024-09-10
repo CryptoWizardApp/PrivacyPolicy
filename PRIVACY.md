@@ -10,12 +10,12 @@ This Privacy Policy describes how your personal information is handled in the "A
 
 ## Data Collection
 
-**AirDrop Manager** does not collect, store, or process any personal information from its users. The app only stores data related to game progress (such as levels, available upgrades, etc.) locally on your device using SharedPreferences. No data is transmitted or stored on external servers.
+**AirDrop Manager** does not collect, store, or process any personal information from its users. The app only stores data related to game progress (such as levels, game's settings, etc.) locally on your device using SharedPreferences. No data is transmitted or stored on external servers.
 
 ## Use of SharedPreferences
 
 AirDrop Manager uses SharedPreferences to store the following types of non-personal data locally on your device:
-- Game progress (e.g., levels completed, upgrades available).
+- Game progress (e.g., mine card levels, settings in game).
 
 This data is only accessible by the app and is not shared with third parties.
 
